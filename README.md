@@ -1,7 +1,7 @@
 # MoodTune 
 A mood-tracking application that recommends music based on how the user feels.  
 Built using **Flutter**, **Riverpod**, **SQLite**, and the **iTunes Search API**.
-
+### !!!To prevents bug, please run this app on Android Emulator only!!!
 ---
 
 ## Features
